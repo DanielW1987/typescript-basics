@@ -1,0 +1,1 @@
+Please see <https://app.gitbook.com/@wagner-daniel87/s/typescript> for Documentation
